@@ -34,9 +34,8 @@ what-anime-re file anime.jpg
 ```bash
 what-anime-re link https://anime.com/image.png
 ``` 
-<br>
-
 # Inspired by
+
 [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli)
 
 # License 
