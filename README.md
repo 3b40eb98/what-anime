@@ -25,11 +25,16 @@ npx what-anime-re
 # Usage 
 ### Get Anime By Image File 
 
-`what-anime-re file anime.jpg`
+```bash
+what-anime-re file anime.jpg
+```
 
 ### Get Anime By Image Link 
 
-`what-anime-re link https://anime.com/image.png` <br>
+```bash
+what-anime-re link https://anime.com/image.png
+``` 
+<br>
 
 # Inspired by
 [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli)
