@@ -1,43 +1,26 @@
-# what-anime-reasonml
-
+# What Anime
 
 This application is a  wrapper around <a href="https://github.com/soruly/trace.moe">trace.moe </a>
 
-<p align="center">PREVIEW</p>
-<p align="center"><img src="./images/demo.gif" width="650"></p>
+## Usage
 
-# Install 
+You need Esy, you can install the beta using [npm](https://npmjs.com):
 
-### homebrew
+    % npm install -g esy@latest
 
-```bash
-brew tap bluuesz/what-anime-re
-brew install what-anime-re
-```
+Then run the `esy` command from this project root to install and build dependencies.
 
-### npm
+    % esy
 
-```bash
-npx what-anime-re
-```
+Compile and run
+
+    % esy x what-anime
 
 
-# Usage 
-### Get Anime By Image File 
-
-```bash
-what-anime-re file anime.jpg
-```
-
-### Get Anime By Image Link 
-
-```bash
-what-anime-re link https://anime.com/image.png
-``` 
-# Inspired by
+## Inspired by
 
 [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli)
 
-# License 
+## License 
 
 [MIT License](https://tldrlegal.com/license/mit-license)
